@@ -93,12 +93,12 @@ As seguintes ferramentas, frameworks e bibliotecas foram utilizados na construç
 
 ## 🏗 Arquitetura
 
-Arquitetura do Sistema
+**Arquitetura do Sistema**
 
 A arquitetura do sistema foi organizada seguindo uma estrutura em camadas, separando a interface do usuário, a lógica da aplicação e a estrutura de dados. Essa organização facilita a manutenção do código, melhora a legibilidade e permite que o sistema evolua com mais facilidade.
 
 
-Principais Componentes
+**Principais Componentes**
 
 O sistema é dividido em algumas partes principais:
 
@@ -108,9 +108,10 @@ Seção de projetos: mostra os trabalhos desenvolvidos ao longo da trajetória a
 
 Seção de experiencias: apresenta asexperiencias do usuário.
 
-Seção de contato: permite que visitantes encontrem formas de entrar em contato.
+Seção de contato: permite que visitantes encontrem formas de entrar em contato.]
 
-Tecnologias Utilizadas
+
+**Tecnologias Utilizadas**
 
 Next.js e React para o desenvolvimento da interface.
 
@@ -120,11 +121,13 @@ HTML e CSS para estrutura e estilização.
 
 Git e GitHub para controle de versão.
 
-Decisões Arquiteturais
+
+**Decisões Arquiteturais**
 
 Foi adotada uma arquitetura baseada em componentes, pois ela facilita a reutilização de código e a organização do projeto.
 
-Limitações
+
+**Limitações**
 
 Por se tratar de um portfólio acadêmico, o sistema não possui um backend completo ou banco de dados dinâmico, sendo focado principalmente na apresentação das informações e dos projetos desenvolvidos.
 
