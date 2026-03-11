@@ -13,10 +13,12 @@
     <td>
       <div>
         <td width="350px" align="center">
-  <img 
-    src="Logo - https://github.com/ViniciusParanho/PortifolioPessoal/blob/main/images/portifolio.jpg" 
-    alt="Logo do Projeto"
-    height="180"
+  
+  <img
+src="https://raw.githubusercontent.com/ViniciusParanho/PortifolioPessoal/main/images/portfolio.jpg"
+alt="Logo do Projeto"
+height="180"
+/>
   />
 </td>
   </tr> 
