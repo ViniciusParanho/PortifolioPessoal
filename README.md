@@ -14,8 +14,7 @@
       <div>
         <td width="350px" align="center">
   
-  <img
-src="https://raw.githubusercontent.com/ViniciusParanho/PortifolioPessoal/main/images/portfolio.jpg"
+  <img src="https://github.com/ViniciusParanho/PortifolioPessoal/blob/main/images/portifolio.jpg"
 alt="Logo do Projeto"
 height="180"
 />
