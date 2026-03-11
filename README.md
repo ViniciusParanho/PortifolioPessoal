@@ -41,22 +41,30 @@ Finalizado
 ---
 
 ## 📝 Sobre o Projeto
-Este projeto surgiu com a proposta de criar um portfólio digital que represente a trajetória e o desenvolvimento de um estudante da área de tecnologia. Em um cenário profissional cada vez mais competitivo, ter um espaço próprio para apresentar habilidades, projetos e evolução técnica se torna um diferencial importante para o crescimento na carreira.
+Este projeto foi criado com o objetivo de desenvolver um portfólio digital capaz de apresentar a trajetória acadêmica e o desenvolvimento técnico de um estudante da área de tecnologia. Em um mercado de trabalho cada vez mais competitivo, possuir um espaço próprio para demonstrar habilidades, projetos e evolução profissional se torna um diferencial importante.
 
-- **Por que ele existe:**
-  O projeto nasceu da necessidade de criar uma identidade digital sólida para estudantes de tecnologia. Em um mercado competitivo, possuir um espaço próprio para demonstrar evolução técnica é fundamental para o crescimento profissional.
-- **Qual problema ele resolve:**
-  O sistema resolve a dispersão de informações profissionais, reunindo em um único lugar:
-  - Habilidades e formação de maneira bilíngue (Português/Inglês).
-  - Histórico de projetos em uma linha do tempo dinâmica e visual.
-  - Experiências e contatos diretos, facilitando o networking.  
-- **Qual o contexto:**
-  O projeto foi desenvolvido no contexto acadêmico da disciplina Laboratório de Desenvolvimento de Software, cursada no 4º período de Engenharia de Software na PUC Minas. A atividade tem como objetivo aplicar, na prática, conceitos de desenvolvimento front-end, organização de sistemas e publicação de aplicações na web.
-- **Onde ele pode ser utilizado**
-  - Processos Seletivos: Como link de referência em currículos para que recrutadores visualizem projetos em funcionamento.
-  - Networking: Compartilhamento rápido de contatos via ícones clicáveis e formulário integrado.
-  - Portfólio Acadêmico: Registro de toda a evolução prática durante o curso de Engenharia de Software.
----
+Por que ele existe:
+O projeto surgiu da necessidade de organizar e apresentar de forma clara a evolução acadêmica e técnica de um estudante de tecnologia. Ter um portfólio próprio permite demonstrar conhecimentos, projetos desenvolvidos e interesses profissionais de maneira mais completa.
+
+Qual problema ele resolve:
+A aplicação busca centralizar informações profissionais que normalmente ficam distribuídas em diferentes plataformas, reunindo em um único ambiente:
+
+Apresentação de habilidades e formação em dois idiomas (Português e Inglês).
+
+Exibição de projetos organizados em uma linha do tempo visual.
+
+Informações de contato e experiências que facilitam a comunicação e o networking.
+
+Qual o contexto:
+O projeto foi desenvolvido no contexto acadêmico da disciplina Laboratório de Desenvolvimento de Software, cursada no 4º período de Engenharia de Software na PUC Minas. A proposta da atividade é aplicar, na prática, conhecimentos relacionados ao desenvolvimento web, organização de sistemas e publicação de aplicações online.
+
+Onde ele pode ser utilizado:
+
+Processos seletivos: pode ser utilizado como referência em currículos para que recrutadores visualizem projetos e habilidades de forma prática.
+
+Networking: permite compartilhar contatos profissionais de forma rápida por meio de links e formulário integrado.
+
+Portfólio acadêmico: funciona como um registro da evolução prática e dos projetos desenvolvidos ao longo do curso de Engenharia de Software.
 
 ## ✨ Funcionalidades Principais
 
