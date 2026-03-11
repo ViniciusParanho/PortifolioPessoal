@@ -1,11 +1,11 @@
 
-# Portfólio Do Pedro 🚀
+# Portfólio Do Vinícius 🚀
 
 <table>
   <tr>
     <td width="800px">
       <div align="justify">
-        O Portfólio do Pedro é um website que apresentara a trajetória acadêmica. Este projeto faz parte do Laboratório de Desenvolvimento de Software da PUC Minas e foca em uma interface amigável e identidade visual coerente.
+        O Portfólio do Vinícius é um website que apresentara a trajetória acadêmica. Este projeto faz parte do Laboratório de Desenvolvimento de Software da PUC Minas e foca em uma interface amigável e identidade visual coerente.
       </div>
       <div align="justify">
       </div>
@@ -68,14 +68,14 @@
 O Portfólio do Pedro será desenvolvido para atuar como uma vitrine digital, centralizando a trajetória acadêmica e as competências técnicas de forma moderna e organizada.
 
 - **Por que ele existe:**
-  O projeto nasceu da necessidade de criar uma identidade digital sólida para estudantes de tecnologia. Em um mercado competitivo, possuir um espaço próprio para demonstrar evolução técnica é fundamental para o crescimento profissional.
+  Este projeto surgiu com a proposta de criar um portfólio digital que represente a trajetória e o desenvolvimento de um estudante da área de tecnologia. Em um cenário profissional cada vez mais competitivo, ter um espaço próprio para apresentar habilidades, projetos e evolução técnica se torna um diferencial importante para o crescimento na carreira.
 - **Qual problema ele resolve:**
   O sistema resolve a dispersão de informações profissionais, reunindo em um único lugar:
   - Habilidades e formação de maneira bilíngue (Português/Inglês).
   - Histórico de projetos em uma linha do tempo dinâmica e visual.
   - Experiências e contatos diretos, facilitando o networking.  
 - **Qual o contexto:**
-  Este projeto foi desenvolvido dentro do contexto acadêmico da disciplina Laboratório de Desenvolvimento de Software (4º período) na PUC Minas. Ele serve como a primeira atividade para aplicar conceitos de front-end, arquitetura de sistemas e hospedagem em nuvem. 
+ O projeto foi desenvolvido no contexto acadêmico da disciplina Laboratório de Desenvolvimento de Software, cursada no 4º período de Engenharia de Software na PUC Minas. A atividade tem como objetivo aplicar, na prática, conceitos de desenvolvimento front-end, organização de sistemas e publicação de aplicações na web.
 - **Onde ele pode ser utilizado**
   - Processos Seletivos: Como link de referência em currículos para que recrutadores visualizem projetos em funcionamento.
   - Networking: Compartilhamento rápido de contatos via ícones clicáveis e formulário integrado.
