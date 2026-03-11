@@ -111,7 +111,7 @@ Certifique-se de que o usuário tenha o ambiente configurado.
 
 ## 📂 Estrutura de Pastas
 
-Descreva o propósito das pastas principais.
+
 
 ```
 .
@@ -168,19 +168,7 @@ Liste os principais contribuidores. Você pode usar links para seus perfis.
 
 
 
-## 🤝 Contribuição
-Guia para contribuições ao projeto.
 
-1.  Faça um `fork` do projeto.
-2.  Crie uma branch para sua feature (`git checkout -b feature/minha-feature`).
-3. Commit suas mudanças (`git commit -m 'feat: Adiciona nova funcionalidade X'`). **(Utilize [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/))**
-4.  Faça o `push` para a branch (`git push origin feature/minha-feature`).
-5.  Abra um **Pull Request (PR)**.
-
-> [!IMPORTANT]
-> 📝 **Regras:** Por favor, verifique o arquivo [`CONTRIBUTING.md`](./CONTRIBUTING.md) para detalhes sobre nosso guia de estilo de código e o processo de submissão de PRs.
-
----
 
 ## 🙏 Agradecimentos
 
