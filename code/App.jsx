@@ -21,15 +21,15 @@ function App() {
         
         {/* Seção: Sobre Mim (Bilíngue) */}
         <section id="sobre" className="container mx-auto px-6 py-20 flex flex-col items-center text-center">
-          <h1 className="text-4xl font-bold mb-4">Olá, eu sou o Pedro Marçal</h1>
-          <h2 className="text-2xl text-gray-600 mb-8">Estudante de Ciência da Computação</h2>
+          <h1 className="text-4xl font-bold mb-4">Olá, eu sou o Vinícius Paranho</h1>
+          <h2 className="text-2xl text-gray-600 mb-8">Estudante de engenharia de software</h2>
           
           <div className="max-w-3xl text-lg text-gray-700 space-y-6 text-justify">
             <p>
-              <strong>PT:</strong> Sou estudante de Ciência da Computação apaixonado por resolver problemas complexos através de código. Tenho experiência com arquitetura de sistemas operacionais, gerenciamento de projetos e desenvolvimento web. Busco constantemente criar soluções eficientes e atuar em projetos que desafiem minha capacidade técnica.
+              <strong>PT:</strong> Sou estudante de engenharia de software apaixonado por resolver problemas complexos através de código. Tenho experiência com arquitetura de sistemas operacionais, gerenciamento de projetos e desenvolvimento web. Busco constantemente criar soluções eficientes e atuar em projetos que desafiem minha capacidade técnica.
             </p>
             <p>
-              <strong>EN:</strong> I am a Computer Science student passionate about solving complex problems through code. I have experience with operating systems architecture, project management, and web development. I constantly seek to create efficient solutions and work on projects that challenge my technical abilities.
+              <strong>EN:</strong> I am a software engineering student passionate about solving complex problems through code. I have experience with operating systems architecture, project management, and web development. I constantly seek to create efficient solutions and work on projects that challenge my technical abilities.
             </p>
           </div>
         </section>
