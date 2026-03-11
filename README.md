@@ -190,13 +190,13 @@ https://portifolio-pessoal-74bk.vercel.app/
 
 ## 🔗 Documentações utilizadas
 
-Liste aqui links para documentação técnica, referências de bibliotecas complexas ou guias de estilo que foram cruciais para o projeto.
+
 
 * 📖 **Framework/Biblioteca (Front-end):** [Documentação Oficial do **React**](https://react.dev/reference/react)
 ---
 
 ## 👥 Autores
-Liste os principais contribuidores. Você pode usar links para seus perfis.
+
 
 | 👤 Nome | 🖼️ Foto | :octocat: GitHub | 💼 LinkedIn | 📤 Gmail |
 |---------|----------|-----------------|-------------|-----------|
