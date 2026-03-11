@@ -149,7 +149,7 @@ Certifique-se de que o usuário tenha o ambiente configurado.
 
 
 ### 🌐 Aplicação Web
-https://portifolio-pessoal-74bk.vercel.app/#sobre
+https://portifolio-pessoal-74bk.vercel.app/
 
 
 ## 🔗 Documentações utilizadas
