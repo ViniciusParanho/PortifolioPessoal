@@ -18,7 +18,7 @@
 alt="Logo do Projeto"
 height="180"
 />
-  />
+  
 </td>
   </tr> 
 </table>
