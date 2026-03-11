@@ -93,17 +93,40 @@ As seguintes ferramentas, frameworks e bibliotecas foram utilizados na construç
 
 ## 🏗 Arquitetura
 
-Descreva aqui a **arquitetura completa do sistema**, explicando como as camadas, módulos e componentes foram organizados. Informe também **por que** essa arquitetura foi escolhida e **quais problemas ela ajuda a resolver**.
+Arquitetura do Sistema
 
-Você pode incluir:
+A arquitetura do sistema foi organizada seguindo uma estrutura em camadas, separando a interface do usuário, a lógica da aplicação e a estrutura de dados. Essa organização facilita a manutenção do código, melhora a legibilidade e permite que o sistema evolua com mais facilidade.
 
-- **Visão geral da arquitetura** (ex.: camadas, módulos, microsserviços, monólito modular, hexagonal, MVC etc.)
-- **Principais componentes** e o papel de cada um
-- **Padrões de design adotados** (ex.: Repository, Service Layer, DTOs, Factory, Observer)
-- **Fluxo de dados** entre as partes do sistema
-- **Tecnologias utilizadas em cada camada**
-- **Decisões arquiteturais importantes**
-- **Trade-offs** ou limitações relevantes
+
+Principais Componentes
+
+O sistema é dividido em algumas partes principais:
+
+Página inicial: apresenta uma introdução e visão geral do portfólio.
+
+Seção de projetos: mostra os trabalhos desenvolvidos ao longo da trajetória acadêmica.
+
+Seção de experiencias: apresenta asexperiencias do usuário.
+
+Seção de contato: permite que visitantes encontrem formas de entrar em contato.
+
+Tecnologias Utilizadas
+
+Next.js e React para o desenvolvimento da interface.
+
+JavaScript / TypeScript para a lógica da aplicação.
+
+HTML e CSS para estrutura e estilização.
+
+Git e GitHub para controle de versão.
+
+Decisões Arquiteturais
+
+Foi adotada uma arquitetura baseada em componentes, pois ela facilita a reutilização de código e a organização do projeto.
+
+Limitações
+
+Por se tratar de um portfólio acadêmico, o sistema não possui um backend completo ou banco de dados dinâmico, sendo focado principalmente na apresentação das informações e dos projetos desenvolvidos.
 
 ---
 
