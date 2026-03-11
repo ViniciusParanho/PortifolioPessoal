@@ -14,7 +14,7 @@
       <div>
         <td width="350px" align="center">
   <img 
-    src="Logo - https://github.com/Netroxx/PedroMar-al.github.io/blob/main/logo/portifolio.png" 
+    src="Logo - https://github.com/ViniciusParanho/PortifolioPessoal/blob/main/images/portifolio.jpg" 
     alt="Logo do Projeto"
     height="180"
   />
