@@ -1,11 +1,11 @@
 
-# Portfólio Do Pedro 🚀
+# Portfólio Do Vinícius 🚀
 
 <table>
   <tr>
     <td width="800px">
       <div align="justify">
-        O Portfólio do Pedro é um website que apresenta a trajetória acadêmica. Este projeto faz parte do Laboratório de Desenvolvimento de Software da PUC Minas e foca em uma interface amigável e identidade visual coerente.
+     O Portfólio de Vinícius é um website desenvolvido para apresentar sua trajetória acadêmica e projetos na área de tecnologia. O projeto foi criado no contexto da disciplina Laboratório de Desenvolvimento de Software da PUC Minas, com foco em uma interface intuitiva, boa organização das informações e uma identidade visual consistente.
       </div>
       <div align="justify">
       </div>
@@ -30,7 +30,7 @@ Finalizado
 
 ## 🖼️ Capturas de Tela
 
-| <img src="https://github.com/Netroxx/PotifolioPessoal/blob/main/Imagens/telainicial.png" alt="Portfolio Home" width="600"/> | <img src="https://github.com/Netroxx/PotifolioPessoal/blob/main/Imagens/Sobremim.png" alt="Portfolio Ajuda" width="600"/> |
+| <img src="https://github.com/ViniciusParanho/PortifolioPessoal/blob/main/images/paginainicial.png" alt="Portfolio Home" width="600"/> | <img src="https://github.com/ViniciusParanho/PortifolioPessoal/blob/main/images/sobre%20mim.png" alt="Portfolio Ajuda" width="600"/> |
 |:----:|:-----:|
 | Home | About | 
 
@@ -39,7 +39,7 @@ Finalizado
 ---
 
 ## 📝 Sobre o Projeto
-O Portfólio do Pedro será desenvolvido para atuar como uma vitrine digital, centralizando a trajetória acadêmica e as competências técnicas de forma moderna e organizada.
+Este projeto surgiu com a proposta de criar um portfólio digital que represente a trajetória e o desenvolvimento de um estudante da área de tecnologia. Em um cenário profissional cada vez mais competitivo, ter um espaço próprio para apresentar habilidades, projetos e evolução técnica se torna um diferencial importante para o crescimento na carreira.
 
 - **Por que ele existe:**
   O projeto nasceu da necessidade de criar uma identidade digital sólida para estudantes de tecnologia. Em um mercado competitivo, possuir um espaço próprio para demonstrar evolução técnica é fundamental para o crescimento profissional.
@@ -49,7 +49,7 @@ O Portfólio do Pedro será desenvolvido para atuar como uma vitrine digital, ce
   - Histórico de projetos em uma linha do tempo dinâmica e visual.
   - Experiências e contatos diretos, facilitando o networking.  
 - **Qual o contexto:**
-  Este projeto foi desenvolvido dentro do contexto acadêmico da disciplina Laboratório de Desenvolvimento de Software (4º período) na PUC Minas. Ele serve como a primeira atividade para aplicar conceitos de front-end, arquitetura de sistemas e hospedagem em nuvem. 
+  O projeto foi desenvolvido no contexto acadêmico da disciplina Laboratório de Desenvolvimento de Software, cursada no 4º período de Engenharia de Software na PUC Minas. A atividade tem como objetivo aplicar, na prática, conceitos de desenvolvimento front-end, organização de sistemas e publicação de aplicações na web.
 - **Onde ele pode ser utilizado**
   - Processos Seletivos: Como link de referência em currículos para que recrutadores visualizem projetos em funcionamento.
   - Networking: Compartilhamento rápido de contatos via ícones clicáveis e formulário integrado.
@@ -105,7 +105,7 @@ Certifique-se de que o usuário tenha o ambiente configurado.
 
 ### ⚡ Como Executar a Aplicação
 
---- Apenas acesse o link https://v0-website-de-portfolio.vercel.app/
+--- Apenas acesse o link https://portifolio-pessoal-74bk.vercel.app/
 
 
 
@@ -149,9 +149,7 @@ Descreva o propósito das pastas principais.
 
 
 ### 🌐 Aplicação Web
-
- https://v0-website-de-portfolio-56m1pifyy-netroxxs-projects.vercel.app/
-
+https://portifolio-pessoal-74bk.vercel.app/#sobre
 
 
 ## 🔗 Documentações utilizadas
@@ -166,7 +164,7 @@ Liste os principais contribuidores. Você pode usar links para seus perfis.
 
 | 👤 Nome | 🖼️ Foto | :octocat: GitHub | 💼 LinkedIn | 📤 Gmail |
 |---------|----------|-----------------|-------------|-----------|
-| Pedro Marcal Ballesteros  | <div align="center"><img src="https://github.com/Netroxx/PedroMar-al.github.io/blob/main/eu%20aurora.jpg" width="70px" height="70px"></div> | <div align="center"><a href="https://github.com/Netroxx"><img src="https://joaopauloaramuni.github.io/image/github6.png" width="50px" height="50px"></a></div> | <div align="center"><a href="www.linkedin.com/in/pedro-ballesteros-4b342b246"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png" width="50px" height="50px"></a></div> | <div align="center"><a href="pedromarcal4@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png" width="50px" height="50px"></a></div> |
+| Vinícius Paranho Ribeiro  | <div align="center"><img src="https://github.com/ViniciusParanho/PortifolioPessoal/blob/main/images/foto%20de%20perfil.png" width="70px" height="70px"></div> | <div align="center"><a href="https://github.com/ViniciusParanho"><img src="https://joaopauloaramuni.github.io/image/github6.png" width="50px" height="50px"></a></div> | <div align="center"><a href="https://www.linkedin.com/in/vinicius-paranho-790b22281/"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png" width="50px" height="50px"></a></div> | <div align="center"><a href="viniciusparanho@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png" width="50px" height="50px"></a></div> |
 
 
 
